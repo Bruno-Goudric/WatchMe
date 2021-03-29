@@ -1,4 +1,6 @@
-![](public/image/watchme.jpg)
+<p align="center"> 
+  ![](public/image/watchme.jpg) 
+</p>
 
 <h3 align="center">
   Desafio 02: Componentizando a Aplicação
