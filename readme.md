@@ -1,5 +1,5 @@
 <p align="center"> 
-  ![](public/image/watchme.jpg) 
+  <img align="center" alt="WatchMe" src="https://raw.githubusercontent.com/Bruno-Goudric/WatchMe/master/public/image/watchme.jpg" /> 
 </p>
 
 <h3 align="center">
