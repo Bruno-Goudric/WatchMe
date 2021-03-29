@@ -1,4 +1,4 @@
-<img align="center" alt="WatchMe" src="https://github.com/Bruno-Goudric/WatchMe/master/public/image/watchme.jpg" />
+![](public/image/watchme.jpg)
 
 <h3 align="center">
   Desafio 02: Componentizando a Aplicação
