@@ -22,8 +22,8 @@ Essa será uma aplicação onde o principal objetivo é refatorar uma página pa
 ### Instalação / Instal
 Clone o projeto em seu computador. Para instalar as dependências e executar o **Servidor** (modo dev) execute:
 ```bash
-https://github.com/Bruno-Goudric/conceito-reactjs.git 
-cd conceito_node_js
+https://github.com/Bruno-Goudric/WatchMe.git 
+cd WatchMe
 yarn install
 ```
 
